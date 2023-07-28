@@ -1,8 +1,7 @@
 appversion=0.100
-appurl="https://raw.githubusercontent.com/TheSeaweedMonster/Celery/main/CeleryApp_DL.zip"
+appurl="https://raw.githubusercontent.com/TheSeaweedMonster/Celery/main/Update/CeleryApp.exe"
 whitelist=true
 uwpoffurl="https://raw.githubusercontent.com/TheSeaweedMonster/Celery/main/uwpoff.bin"
-uwpiniturl="https://raw.githubusercontent.com/TheSeaweedMonster/Celery/main/uwpinit.lua"
 uwpdllurl="https://raw.githubusercontent.com/TheSeaweedMonster/Celery/main/celeryuwp.bin"
 dllurl="https://raw.githubusercontent.com/TheSeaweedMonster/Celery/main/celeryuwp.bin"
 uwpversion=0.100
