@@ -1,7 +1,7 @@
 appversion=0.100
 appurl="https://raw.githubusercontent.com/TheSeaweedMonster/Celery/main/Update/CeleryApp.exe"
 whitelist=true
-uwpoffurl="https://raw.githubusercontent.com/TheSeaweedMonster/Celery/main/uwpoff.bin"
-uwpdllurl="https://raw.githubusercontent.com/TheSeaweedMonster/Celery/main/celeryuwp.bin"
-dllurl="https://raw.githubusercontent.com/TheSeaweedMonster/Celery/main/celeryuwp.bin"
+uwpoffurl="https://raw.githubusercontent.com/Blazicken/Seecythe/main/Update/dll/uwpoff.bin"
+uwpdllurl="https://raw.githubusercontent.com/Blazicken/Seecythe/main/Update/dll/celeryuwp.bin"
+dllurl="https://raw.githubusercontent.com/Blazicken/Seecythe/main/Update/dll/celeryuwp.bin"
 uwpversion=0.100
